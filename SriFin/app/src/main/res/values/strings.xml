@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SriFin</string>
+    <string name="title_activity_add_expence">add_expence</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="grocery">Grocery</string>
+    <string name="taxes">Taxes</string>
+    <string name="bills">Bills</string>
+    <string name="lease">Lease</string>
+    <string name="tuitions">Tuitions</string>
+    <string name="transportation">Transportation</string>
+    <string name="rent">Rent</string>
+    <string name="edit">EDIT</string>
+    <string name="debt">Debt</string>
+    <string name="entertaintment">Entertaintment</string>
+    <string name="select_the_expence">SELECT THE EXPENCE</string>
+    <string name="expences_overview">Expences Overview</string>
+    <string name="this_week">This Week</string>
+    <string name="total_expences">TOTAL EXPENCES:</string>
+    <string name="rs_45900">RS.45900</string>
+    <string name="rs_12900">Rs.12900</string>
+    <string name="rs_20000_rs_500000">Rs.20000/Rs.500000</string>
+    <string name="rs_600">Rs.600</string>
+    <string name="rs_5000_rs_23400">Rs.5000/Rs.23400</string>
+    <string name="rs_2000">Rs.2000</string>
+    <string name="rs_10000">Rs.10000</string>
+    <string name="add_expenses">Add Expenses</string>
+    <string name="add_income">Add Income</string>
+    <string name="more">More</string>
+    <string name="welcome_kishen">Welcome Kishen!</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="rs_200000">Rs.200000</string>
+    <string name="total_expenditure_for_the_month">Total expenditure for the month:</string>
+    <string name="rs_32500">Rs.32500</string>
+    <string name="financial_news">Financial News</string>
+    <string name="get_financial_tips_daily_to_mange_your_wealth">Get financial tips daily to mange your wealth,</string>
+    <string name="enter_expense">Enter Expense :</string>
+    <string name="rs">Rs.</string>
+    <string name="add">ADD</string>
+</resources>
